@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.83.4"
+  },
+  "name": "curriculo",
+  "version": "1.0.0",
+  "description": "currriculo Lucas Dias",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch dist/css/style.scss dist/css/style.css"
+  },
+  "author": "Lucas Dias",
+  "license": "ISC"
+}
