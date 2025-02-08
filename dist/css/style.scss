@@ -57,7 +57,7 @@
         }
     }
 }
-@media(max-width: 828px){
+/**@media(max-width: 828px){
     .menu{
         display: flex;
         overflow: hidden;
@@ -80,7 +80,7 @@
     .navbar__toggle{
         display: flex;
     }   
-}
+}*/
 
 #sobre{
     display: flex;
@@ -99,13 +99,13 @@
     }
 }
 
-@media(max-width: 828px){
+/**@media(max-width: 828px){
         #sobre{
             display: block;
             align-items: center;
             overflow: hidden;
         }
-}
+}*/
 
 .navbar-logo{
     display: block;
